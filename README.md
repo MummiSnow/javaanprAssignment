@@ -1,5 +1,4 @@
 # javaanprAssignment
-By Anders Jakobsen
 
 This is an assignment given in a Test course on Copenhagen Business Academys Software Development professional bachelors degree programme.
 
